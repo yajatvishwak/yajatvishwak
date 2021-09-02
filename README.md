@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **not.yajat@gmail.com**
 
-- ⚡ Fun fact **I cook really awesome dishes too**
+- ⚡ Fun fact **I cook really awesome dishes too (check out my instagram!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
