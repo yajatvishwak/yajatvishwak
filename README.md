@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishwakkyajat" target="blank"><img src="https://img.shields.io/twitter/follow/vishwakkyajat?logo=twitter&style=for-the-badge" alt="vishwakkyajat" /></a> </p>
 
-- 🔭 I’m currently working on [Renteefy](renteefy.com)
+
 
 - 🌱 I’m currently learning **Machine Learning and DSA**
 
